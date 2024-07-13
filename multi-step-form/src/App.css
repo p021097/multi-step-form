@@ -1,0 +1,15 @@
+.App {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .navigation button {
+    margin-right: 5px;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,25 @@
+.navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    background-color: lightblue;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.navigation button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 4px;
+    /* color: white; */
+    /* background-color: tomato; */
+    font-size: 15px;
+    cursor: pointer;
+    gap: 10px;
+    margin: 15px;
+}
+
